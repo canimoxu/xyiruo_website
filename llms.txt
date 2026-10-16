@@ -1,0 +1,10 @@
+# Yiruo Xu
+
+> Postdoctoral fellow in Earth and Environmental Sciences and Astronomy at the University of Michigan. Petrologist and geochemist studying the history of the solid Earth.
+
+Research interests: petrology, geochemistry, tectonics, cosmochemistry. Uses diffusion models to constrain the timescales of metamorphic processes and phase-equilibrium models to predict the compositions of condensed solids in protoplanetary disks.
+
+- [Homepage](https://canimoxu.github.io/xyiruo_website/)
+- [CV (PDF)](https://canimoxu.github.io/xyiruo_website/files/Xu_Yiruo_CV.pdf)
+- [ORCID](https://orcid.org/0000-0002-6274-7383)
+- Email: xyiruo@umich.edu
